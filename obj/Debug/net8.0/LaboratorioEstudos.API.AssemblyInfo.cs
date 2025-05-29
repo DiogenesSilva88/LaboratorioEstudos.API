@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaboratorioEstudos.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad99c310a5d06837c1af2c3124e30f255a15325f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bdc3e7134c999e99b866ab2488d51d6fad7d043")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaboratorioEstudos.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaboratorioEstudos.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
